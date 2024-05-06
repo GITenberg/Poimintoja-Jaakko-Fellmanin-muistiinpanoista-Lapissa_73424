@@ -1,0 +1,39 @@
+_repo: Poimintoja-Jaakko-Fellmanin-muistiinpanoista-Lapissa_73424
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Fellman, Jakob Esaiaksenpoika
+    alias: Fellman, Jaakko
+    birthdate: 1795
+    deathdate: 1875
+    gutenberg_agent_id: '7879'
+    url: http://www.gutenberg.org/2009/agents/7879
+    wikipedia: https://fi.wikipedia.org/wiki/Jakob_Fellman
+  editor:
+    agent_name: Meurman, A. (Agathon)
+    alias: Meurman, Agathon
+    birthdate: 1826
+    deathdate: 1909
+    gutenberg_agent_id: '44370'
+    url: http://www.gutenberg.org/2009/agents/44370
+    wikipedia: https://fi.wikipedia.org/wiki/Agathon_Meurman
+description: ''
+gutenberg_issued: '2024-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73424'
+language: fi
+pgterms:marc905: 20240412020130meurman
+pgterms:marc906: '1907'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aPorvoo :$bWSOY, $c1907.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lapland -- Description and travel'
+- !lcc 'DL'
+- GITenberg
+title: Poimintoja Jaakko Fellmanin muistiinpanoista Lapissa
+url: http://www.gutenberg.org/ebooks/73424
