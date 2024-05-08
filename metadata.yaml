@@ -1,5 +1,8 @@
 _repo: Poimintoja-Jaakko-Fellmanin-muistiinpanoista-Lapissa_73424
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Fellman, Jakob Esaiaksenpoika
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44370
     wikipedia: https://fi.wikipedia.org/wiki/Agathon_Meurman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73424#Poimintoja-Jaakko-Fellmanin-muistiinpanoista-Lapissa
 gutenberg_issued: '2024-04-18'
 gutenberg_type: Text
 identifiers:
